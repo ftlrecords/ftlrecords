@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftlrecords
 - 👀 I’m interested in backend and machine learning
-- 🌱 I’m currently learning  machine learning.
+- 🌱 I’m currently learning  machine learning
 
 
 <!---
